@@ -9,7 +9,7 @@ zbc
 #include "AI.h"
 #include "ChessGame.h"
 #include <functional>
-
+#include <stdio.h>
 int main() {
 	
 	AI* ai = new AI();
